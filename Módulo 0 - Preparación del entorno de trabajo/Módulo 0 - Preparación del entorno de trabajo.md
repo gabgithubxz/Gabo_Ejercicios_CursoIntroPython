@@ -3,7 +3,8 @@
 Aunque los desarrolladores web crean sus sitios web mediante el uso de herramientas como Node.js, ASP.NET o Java, y ejecutan su código localmente mediante el uso de herramientas en editores de código como Visual Studio Code, los desarrolladores de Python tienen algunas otras herramientas a su disposición.
 
 Una de esas herramientas útiles se llama ``notebook / notebook ``. Un notebook es un entorno interactivo que un desarrollador puede usar para ejecutar bloques de código y agregar áreas de documentación para explicar el código en sí. Aunque los desarrolladores de Python también pueden usar archivos .py para ejecutar programas de Python directamente, pueden usar notebooks para ejecutar y documentar su código, explicando su lógica en el camino.
-
+test merge
+test merge 2
 ## Escenario: Miembro de la tripulación en la ISS
 
 Supongamos que eres un miembro de la tripulación en una nave espacial. Su misión es entregar algunos equipos importantes a la Estación Espacial Internacional (ISS). Si no está familiarizado con algunos de los muchos botones de la consola de la nave espacial, ¡Es mejor no aprender por el método de prueba y error, en pleno vuelo! En su lugar, puede consultar el manual de viaje para saber qué botones presionar para realizar varias tareas. Pero, ¿Qué pasa si el manual está incompleto?
